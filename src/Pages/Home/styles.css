@@ -1,0 +1,22 @@
+.user{
+    padding-top: 50px;
+    padding-left: 250px;
+}
+.linha{
+    background-color: #f8d300;
+    padding-bottom: 30px;
+}
+.frase{
+    border: 1px solid #a0a0a0;
+    height: 300px;
+    width: 750px;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    
+    color: black;
+    text-decoration: none;
+}
+center{
+    padding-top: 30px;
+}
